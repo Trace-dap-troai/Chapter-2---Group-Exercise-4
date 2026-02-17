@@ -1,3 +1,11 @@
+# Group Members
+
+Munib Ahmed
+
+Chech Trac, Way
+
+Mehatab
+
 ## Objective
 
 The objective of this exercise is to apply and compare two different clustering techniques on the same dataset used in Group Exercise 3.  
